@@ -4,7 +4,7 @@ Projeto baseado no curso online fornecido pelo http://www.executeautomation.com/
 
 Dependencias:
 
-NUnit.Console Runner
+/nNUnit.Console Runner
 Nunit3TestAdapter
 Selenium.Support
 Selenium.WebDriver
