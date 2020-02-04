@@ -4,8 +4,12 @@ Projeto baseado no curso online fornecido pelo http://www.executeautomation.com/
 
 Dependencias:
 
-/nNUnit.Console Runner
-Nunit3TestAdapter
-Selenium.Support
-Selenium.WebDriver
-Selenium.WebDriver.ChromeDriver
+  NUnit.Console Runner
+
+  Nunit3TestAdapter
+
+  Selenium.Support
+
+  Selenium.WebDriver
+
+  Selenium.WebDriver.ChromeDriver
